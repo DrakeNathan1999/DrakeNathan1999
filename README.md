@@ -6,13 +6,16 @@
 </p>
 
 ## :sassy_man:  About me
-- 👋 Hi, I’m @DrakeNathan1999
-- 👀 I’m interested in ... County life
+- 👀 I hate the city
 - 🌱 I’m currently learning Type script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @cysgodhir on discord
 - ⚡ Fun fact ☕ is the best thing ever made
 
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DrakeNathan1999&theme=github-dark&hide_border=true&background=DD272702" alt="DrakeNathan1999 Github Stats" /></p>
+
+                    
 <!---
 DrakeNathan1999/DrakeNathan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
