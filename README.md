@@ -15,7 +15,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DrakeNathan1999&theme=github-dark&hide_border=true&background=DD272702" alt="DrakeNathan1999 Github Stats" /></p>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeNathan1999&repo=anuraghazra.github.io&theme=buefy" />
 </a>
  
 <!---
