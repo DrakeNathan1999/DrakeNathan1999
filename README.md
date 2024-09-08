@@ -8,7 +8,6 @@
 ## :sassy_man:  About me
 - 👀 I hate the city
 - 🌱 I’m currently learning Type script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @cysgodhir on discord
 - ⚡ Fun fact ☕ is the best thing ever made
 
