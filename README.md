@@ -13,8 +13,7 @@
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DrakeNathan1999&theme=github-dark&hide_border=true&background=DD272702" alt="DrakeNathan1999 Github Stats" /></p>
-
-(https://github-readme-stats.vercel.app/api/pin/?DrakeNathan1999=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                    
+ 
 <!---
 DrakeNathan1999/DrakeNathan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
