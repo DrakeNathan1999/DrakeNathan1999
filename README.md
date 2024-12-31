@@ -6,8 +6,6 @@
 </p>
 
 ## :sassy_man:  About me
-- 👀 I hate the city
-- 🌱 I’m currently learning Type script
 - 📫 How to reach me @cysgodhir on discord
 - ⚡ Fun fact ☕ is the best thing ever made
 
