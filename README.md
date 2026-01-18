@@ -1,19 +1,25 @@
 <h1 align="center">
-  Hi there, I'm Cysgod Hir, most people call me Drake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi there, I'm Cysgod Hir, most people call me Drake 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&multiline=true&width=435&lines=Part+time+Certified+Cunt" alt="Typing SVG" /></a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=435&lines=Frontend+Developer+React+and+Next.js" 
+    alt="Frontend Developer React and Next.js" 
+  />
 </p>
 
-## :sassy_man:  About me
-- 📫 How to reach me @cysgodhir on discord
-- ⚡ Fun fact ☕ is the best thing ever made
+## 🧑‍💻 About me
+- 📫 Discord: **@cysgodhir**
+- ⚡ Fun fact: ☕ is the best thing ever made
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DrakeNathan1999&theme=github-dark&hide_border=true&background=DD272702" alt="DrakeNathan1999 Github Stats" /></p>
+## 🧩 Projects
 
+### 🧠 [Workshop Monitor](https://workshopmonitor.com)
+- Monitoring for Steam Workshop & servers
+- **React · Next.js · UI/UX focused**
 
-<!---
-DrakeNathan1999/DrakeNathan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 A Lost Legacy
+- Frontend systems, dashboards, and branding
+- React & Next.js architecture as well
